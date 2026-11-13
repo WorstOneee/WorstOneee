@@ -44,9 +44,9 @@ Beyond development, I'm into music, audiovisual production and online communitie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WorstOneee&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=B7CCDF" alt="GitHub stats" />
+<img src="assets/github-stats.svg" width="100%" alt="Self-hosted GitHub statistics" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WorstOneee&bg_color=0b1120&color=38bdf8&line=0ea5e9&point=8bdfff&area=true&area_color=075985&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img src="assets/github-activity.svg" width="100%" alt="Self-hosted GitHub contributions chart" />
 
 </div>
 
