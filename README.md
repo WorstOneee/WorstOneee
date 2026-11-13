@@ -4,7 +4,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=750&lines=Turning+ideas+into+experiences.;Minecraft+%E2%80%A2+Web+%E2%80%A2+Games;Always+building+something+new." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=750&lines=Turning+ideas+into+experiences.;Always+building+something+new." alt="Animated introduction" />
 
 </div>
 
